@@ -21,3 +21,10 @@ This project demonstrated how SQL can be a powerful tool for optimizing sales pe
 
 In this project, I analyzed and quantified customer behavior and preferences at Danny’s Diner by examining their visiting patterns, spending habits, and favorite menu items. Using MySQL, I provided insights into customer loyalty, helping to inform decisions on expanding the loyalty program and enhancing personalized experiences.
 ### [Customer Preference and Behaviour at Danny's Dinner](https://github.com/OLAMI04/Danny-Dinner)
+
+## PROJECT 3
+#### AdventureWorks SQL Analysis 
+![image](https://github.com/user-attachments/assets/b4322477-3304-4199-a1f6-5b1e151bf75c)
+
+This project explores the AdventureWorks database, focusing on key business insights through SQL queries.It includes data extraction,transformation, and analysis of sales, customer demographics, product performance and employee data.The goal is to showcase my ability to work with complex datasets, write efficient SQL queries, and derive actionable insights tosupport business decision-making.
+
