@@ -7,3 +7,7 @@
 #### Excel
 #### Power Bi
 #### SQL
+
+## PROJECT 1
+### ELEVATE CUSTOMER SATISFACTION USING SQL
+![image](https://github.com/user-attachments/assets/c5e49864-fbfb-4918-a272-3f64ab234a3c)
