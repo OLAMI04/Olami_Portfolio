@@ -14,3 +14,9 @@
 
 This project demonstrated how SQL can be a powerful tool for optimizing sales performance and enhancing customer satisfaction by providing deep insights into supply chain dynamics and aligning operations with customer needs.
 ### [ELevate Customer Satisfaction Using SQL](https://github.com/OLAMI04/Revolutionize-Supply-Chain-with-SQL)
+
+## PROJECT 2
+#### Danny-Diner
+![image](https://github.com/user-attachments/assets/092038f3-1ce4-4311-ac1f-7f93d6ecd201)
+
+In this project, I analyzed and quantified customer behavior and preferences at Danny’s Diner by examining their visiting patterns, spending habits, and favorite menu items. Using MySQL, I provided insights into customer loyalty, helping to inform decisions on expanding the loyalty program and enhancing personalized experiences.
