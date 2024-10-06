@@ -13,4 +13,4 @@
 ![image](https://github.com/user-attachments/assets/c5e49864-fbfb-4918-a272-3f64ab234a3c)
 
 This project demonstrated how SQL can be a powerful tool for optimizing sales performance and enhancing customer satisfaction by providing deep insights into supply chain dynamics and aligning operations with customer needs.
-### [ELevate Customer Satisfaction Using SQL] https://github.com/OLAMI04/Revolutionize-Supply-Chain-with-SQL
+### [ELevate Customer Satisfaction Using SQL](https://github.com/OLAMI04/Revolutionize-Supply-Chain-with-SQL)
