@@ -31,7 +31,7 @@ This project explores the AdventureWorks database, focusing on key business insi
 
 ## PROJECT 4
 ### Tenant Retention Optimization
-
+![image](https://github.com/OLAMI04/Olami_Portfolio/blob/main/Estate%20Rtn.PNG)
 
 In this project, I assisted HomeVibe Properties in optimizing tenant retention by analyzing tenant behavior, lease renewals, and feedback using Power BI. The analysis focused on identifying factors contributing to high tenant churn rates, inefficiencies in lease renewal processes, and trends affecting tenant satisfaction. By integrating, transforming, and analyzing data from tenant, lease, feedback, and property datasets, I developed an interactive dashboard that provided actionable insights to streamline lease renewals and improve retention strategies. The project aimed to enhance revenue, operational efficiency, and the company's competitive edge.
 ### [Tenant Retention Optimization](https://github.com/OLAMI04/Power-BI-Dashboard)
