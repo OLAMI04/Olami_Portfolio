@@ -28,3 +28,9 @@ In this project, I analyzed and quantified customer behavior and preferences at 
 
 This project explores the AdventureWorks database, focusing on key business insights through SQL queries.It includes data extraction,transformation, and analysis of sales, customer demographics, product performance and employee data.The goal is to showcase my ability to work with complex datasets, write efficient SQL queries, and derive actionable insights tosupport business decision-making.
 ### [Adventureworks SQL Analysis](https://github.com/OLAMI04/AdventureWorks)
+
+## PROJECT 4
+
+![Dashboard](https://github.com/OLAMI04/Power-BI-Dashboard/blob/main/Estate%20Rtn.PNG)
+
+In this project, I assisted HomeVibe Properties in optimizing tenant retention by analyzing tenant behavior, lease renewals, and feedback using Power BI. The analysis focused on identifying factors contributing to high tenant churn rates, inefficiencies in lease renewal processes, and trends affecting tenant satisfaction. By integrating, transforming, and analyzing data from tenant, lease, feedback, and property datasets, I developed an interactive dashboard that provided actionable insights to streamline lease renewals and improve retention strategies. The project aimed to enhance revenue, operational efficiency, and the company's competitive edge.
