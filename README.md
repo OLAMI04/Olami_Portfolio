@@ -29,7 +29,7 @@ In this project, I analyzed and quantified customer behavior and preferences at 
 This project explores the AdventureWorks database, focusing on key business insights through SQL queries.It includes data extraction,transformation, and analysis of sales, customer demographics, product performance and employee data.The goal is to showcase my ability to work with complex datasets, write efficient SQL queries, and derive actionable insights tosupport business decision-making.
 ### [Adventureworks SQL Analysis](https://github.com/OLAMI04/AdventureWorks)
 
-## PROJECT 4
+## POWER BI PROJECT 1
 ### Tenant Retention Optimization
 ![image](https://github.com/user-attachments/assets/456ffabb-c435-4110-88a4-e5eaabe7c41e)
 
