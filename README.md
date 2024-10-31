@@ -43,4 +43,4 @@ In this project, I assisted HomeVibe Properties in optimizing tenant retention b
 ![image](https://github.com/user-attachments/assets/90ddbab4-b992-4c4c-a865-8b88e3867ed5)
 
 In this project, I assisted Lai Manufacturing Plc in enhancing operational efficiency by analyzing production downtime, process optimization, and supply chain performance using Power BI. The analysis focused on identifying causes of equipment breakdowns, inefficiencies in production, and challenges in inventory management and supply chain coordination. By integrating and analyzing data on production, inventory, employee performance, and maintenance, I developed interactive dashboards that provided actionable insights to streamline processes and improve real-time reporting. The project aimed to reduce costs, improve productivity, and support data-driven decision-making for operational improvements.
-
+### [Enhance Operational Efficiency](https://github.com/OLAMI04/POWER-BI)
