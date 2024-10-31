@@ -37,10 +37,10 @@ This project explores the AdventureWorks database, focusing on key business insi
 In this project, I assisted HomeVibe Properties in optimizing tenant retention by analyzing tenant behavior, lease renewals, and feedback using Power BI. The analysis focused on identifying factors contributing to high tenant churn rates, inefficiencies in lease renewal processes, and trends affecting tenant satisfaction. By integrating, transforming, and analyzing data from tenant, lease, feedback, and property datasets, I developed an interactive dashboard that provided actionable insights to streamline lease renewals and improve retention strategies. The project aimed to enhance revenue, operational efficiency, and the company's competitive edge.
 ### [Tenant Retention Optimization](https://github.com/OLAMI04/Power-BI-Dashboard)
 
-## POWER BI PROJECT 2
 
+## POWER BI PROJECT 2
+### Enhance Operational Efficiency 
 ![image](https://github.com/user-attachments/assets/90ddbab4-b992-4c4c-a865-8b88e3867ed5)
 
-
-
 In this project, I assisted Lai Manufacturing Plc in enhancing operational efficiency by analyzing production downtime, process optimization, and supply chain performance using Power BI. The analysis focused on identifying causes of equipment breakdowns, inefficiencies in production, and challenges in inventory management and supply chain coordination. By integrating and analyzing data on production, inventory, employee performance, and maintenance, I developed interactive dashboards that provided actionable insights to streamline processes and improve real-time reporting. The project aimed to reduce costs, improve productivity, and support data-driven decision-making for operational improvements.
+
