@@ -48,7 +48,7 @@ In this project, I assisted Lai Manufacturing Plc in enhancing operational effic
 
 ## EXCEL PROJECT WITH DASHBOARD
 ### Order Fulfillment Processes
-![image](https://github.com/OLAMI04/DML/commit/e27d9045518f1daf7288d7433743b5e165f36586)
+![image](https://github.com/OLAMI04/DML/blob/main/Fullfilment%20Dashboard.JPG)
 
 In this project, I collaborated with Streamline Logistics Solutions to optimize their order fulfillment processes and address critical operational challenges. Using Excel, I developed an interactive dashboard that provided real-time insights into key metrics, including order completion rates, average delivery times, and backlog percentages.
 
